@@ -10,7 +10,7 @@ class Strings {
   static const String summary = 'Focused Computer Science and Engineerign Student having excellent technical and communication skills, Proficient at analysing data to provide business solutions, designing and formulating test automation frameworks, writing code in various languages, feature development and implementation. Specialize in thinking outside the box to find unique solutions to difficult engineering problems.';
   static const String experience = 'Experience';
   static const String skills_i_have = 'What Skill I Have';
-  static const String rights_reserved = '©️ KEEPING IT SOLID ALL RIGHTS REVSERVED';
+  static const String rights_reserved = 'CREATED BY MANISH SINGH WITH ❤️ ';
 
   // menu items
   static const String menu_home = 'Home';

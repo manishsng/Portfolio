@@ -292,7 +292,7 @@ class HomePage extends StatelessWidget {
     'Illustrator',
     'Photoshop',
     'Data Analytics',
-    'Public Speeking',
+    'Public Speaking',
   ];
 
   Widget _buildSkills(BuildContext context) {
